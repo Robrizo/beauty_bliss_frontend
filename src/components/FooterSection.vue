@@ -1,7 +1,7 @@
 <template>
-    <section>
+    <section class="bg-cyan-700">
         <!-- footer container -->
-        <div class="container bg-cyan-700 mx-auto p-16 px-8 md:px-12 xl:px-36">
+        <div class="container mx-auto p-16 px-8 md:px-12 xl:px-36">
             <!-- logo -->
             <div class="text-2xl capitalize text-white font-medium text-center mb-8 md:text-4xl md:text-left">
                 <a href="#">beauty<span class="text-cyan-300">Bliss</span></a>
@@ -142,7 +142,8 @@
             <div class="border-b border-cyan-300 my-4">
             </div>
 
-            <div class="flex flex-col space-y-4 items-center justify-center mt-4 md:flex-row md:justify-between md:space-y-0">
+            <div
+                class="flex flex-col space-y-4 items-center justify-center mt-4 md:flex-row md:justify-between md:space-y-0">
                 <p class="text-sm text-white">Copyright &copy; 2025 All Right Reserved</p>
                 <div class="text-sm text-white">
                     Developed by <a href="https://robert-chunga.vercel.app/" target="_blank"

@@ -1,7 +1,7 @@
 <template>
-    <section>
+    <section class="bg-cyan-50">
         <!-- cta container -->
-        <div class="container bg-cyan-50 mx-auto p-16 px-8 md:px-12 xl:px-36">
+        <div class="container  mx-auto p-16 px-8 md:px-12 xl:px-36">
             <div class=" flex flex-col items-center justify-center space-y-6 ">
                 <div class="text-center">
                     <h3 class="text-2xl text-cyan-700 font-bold md:text-3xl">Subscribe to our newsletter</h3>
